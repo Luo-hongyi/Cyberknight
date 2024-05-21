@@ -1,6 +1,6 @@
 # CyberKNight
 
-Welcome to my 3D platform action game! In this game, you will experience intense combat and the thrill of dodging a barrage of projectiles. Here are the key features of the game:
+Welcome to my 3D platform action game! In this game, you will experience intense combat and the thrill of dodging a barrage of projectiles.
 
 ![Game Play](./p1.jpg)
 ![Game Play](./p2.jpg)
